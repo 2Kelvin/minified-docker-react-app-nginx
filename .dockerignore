@@ -1,3 +1,6 @@
 node_modules/
 README.md
 build/
+.git/
+.gitignore
+Dockerfile
